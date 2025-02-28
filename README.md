@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2383-add-two-integers) |
+| [3371-harshad-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3371-harshad-number) |
 ## Binary Search
 |  |
 | ------- |
