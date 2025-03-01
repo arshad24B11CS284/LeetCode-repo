@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
