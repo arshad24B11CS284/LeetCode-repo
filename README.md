@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
