@@ -14,7 +14,7 @@ class Solution {
         ListNode prev = new ListNode(0);
         prev.next = head;
         // if(head.next==null) return head;
-        int flag = 0;
+      //  int flag = 0;
         while(temp!=null ){
             if(temp.val==val){
                 if(temp==head){
@@ -25,14 +25,14 @@ class Solution {
             }else {
                 temp =temp.next;
                 prev = prev.next;
-                flag =1;
+              //  flag =1;
             }
         }
 
-        if(flag==0){
-            prev = prev .next;
-            return prev;
-        }
+        // if(flag==0){
+        //     prev = prev .next;
+        //     return prev;
+        // }
         return head;
     }
 }
