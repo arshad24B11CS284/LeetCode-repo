@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2383-add-two-integers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2383-add-two-integers) |
 | [3371-harshad-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3371-harshad-number) |
 ## Binary Search
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
