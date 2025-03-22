@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2383-add-two-integers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2383-add-two-integers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0287-find-the-duplicate-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 ## Linked List
 |  |
