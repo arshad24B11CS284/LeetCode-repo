@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0287-find-the-duplicate-number) |
+| [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 ## Linked List
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
