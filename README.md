@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
