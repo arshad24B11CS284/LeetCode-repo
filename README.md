@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0503-next-greater-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0503-next-greater-element-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -150,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
