@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2383-add-two-integers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2556-convert-the-temperature) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 | [3371-harshad-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3371-harshad-number) |
 ## Binary Search
