@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
