@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 ## Linked List
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
 ## Queue
 |  |
 | ------- |
