@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1965-sum-of-digits-in-base-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2383-add-two-integers) |
