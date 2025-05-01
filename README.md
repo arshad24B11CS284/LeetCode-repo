@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0575-distribute-candies) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0575-distribute-candies) |
 | [0735-asteroid-collision](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0735-asteroid-collision) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
