@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 | [2812-find-the-maximum-achievable-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2812-find-the-maximum-achievable-number) |
 | [3371-harshad-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3371-harshad-number) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
