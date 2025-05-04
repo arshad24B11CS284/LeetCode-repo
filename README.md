@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0160-intersection-of-two-linked-lists) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0189-rotate-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0169-majority-element) |
 ## Merge Sort
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0145-binary-tree-postorder-traversal) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0145-binary-tree-postorder-traversal) |
