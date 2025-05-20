@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
