@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1195-distribute-candies-to-people) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
