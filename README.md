@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2630-alternating-digit-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2649-count-total-number-of-colored-cells) |
+| [2650-split-with-minimum-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2650-split-with-minimum-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 | [2812-find-the-maximum-achievable-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2812-find-the-maximum-achievable-number) |
 | [3371-harshad-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3371-harshad-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
+| [2650-split-with-minimum-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
+| [2650-split-with-minimum-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2756-buy-two-chocolates) |
 ## Tree
 |  |
