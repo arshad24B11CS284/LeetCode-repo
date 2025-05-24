@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
 ## Stack
 |  |
