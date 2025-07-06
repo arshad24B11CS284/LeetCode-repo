@@ -471,4 +471,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0577-employee-bonus) |
 | [1179-game-play-analysis-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1179-game-play-analysis-i) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
