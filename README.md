@@ -461,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2447-merge-similar-items) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
