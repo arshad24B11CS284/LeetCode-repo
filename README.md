@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1625-group-sold-products-by-the-date) |
+| [1827-invalid-tweets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1837-daily-leads-and-partners) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
