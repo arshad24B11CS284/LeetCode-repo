@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0141-linked-list-cycle) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0084-largest-rectangle-in-histogram) |
