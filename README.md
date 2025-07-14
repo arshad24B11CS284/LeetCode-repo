@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0575-distribute-candies) |
+| [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0328-odd-even-linked-list) |
+| [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0232-implement-queue-using-stacks) |
+| [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -498,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
