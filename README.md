@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0575-distribute-candies) |
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -512,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
