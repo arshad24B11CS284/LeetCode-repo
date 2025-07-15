@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
