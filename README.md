@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2447-merge-similar-items) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0239-sliding-window-maximum) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2585-delete-greatest-value-in-each-row) |
