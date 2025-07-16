@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1656-count-good-triplets) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
