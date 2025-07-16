@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Matrix
