@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0724-find-pivot-index) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2469-longest-subsequence-with-limited-sum) |
