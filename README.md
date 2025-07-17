@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1677-matrix-diagonal-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Ordered Set
 |  |
