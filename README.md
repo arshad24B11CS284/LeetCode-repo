@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
