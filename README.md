@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0575-distribute-candies) |
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
+| [1039-find-the-town-judge](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
+| [1039-find-the-town-judge](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1039-find-the-town-judge) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1256-rank-transform-of-an-array) |
@@ -574,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1524-string-matching-in-an-array) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
