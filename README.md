@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2502-sort-the-people) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1791-richest-customer-wealth) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0412-fizz-buzz) |
 | [1524-string-matching-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1651-shuffle-string) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2502-sort-the-people) |
 ## Design
 |  |
