@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0575-distribute-candies) |
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1848-sum-of-unique-elements) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0412-fizz-buzz) |
 | [1524-string-matching-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1524-string-matching-in-an-array) |
