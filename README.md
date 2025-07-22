@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0575-distribute-candies) |
+| [0782-jewels-and-stones](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0817-design-hashmap) |
 | [1039-find-the-town-judge](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1039-find-the-town-judge) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0782-jewels-and-stones) |
 | [1524-string-matching-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1651-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1960-check-if-the-sentence-is-pangram) |
