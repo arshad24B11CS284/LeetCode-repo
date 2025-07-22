@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0817-design-hashmap) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1319-unique-number-of-occurrences) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0817-design-hashmap) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1039-find-the-town-judge) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
