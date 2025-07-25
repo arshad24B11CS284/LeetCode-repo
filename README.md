@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2226-rings-and-rods](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1651-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2226-rings-and-rods](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2226-rings-and-rods) |
 | [2502-sort-the-people](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2825-minimize-string-length](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2825-minimize-string-length) |
