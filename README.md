@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3226-minimum-number-game) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2159-two-out-of-three](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2308-divide-array-into-equal-pairs) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
