@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2825-minimize-string-length) |
 | [2902-max-pair-sum-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2902-max-pair-sum-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3324-split-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3324-split-the-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3221-find-the-peaks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3226-minimum-number-game) |
+| [3324-split-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2486-most-frequent-even-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3324-split-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
