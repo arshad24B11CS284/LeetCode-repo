@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0263-ugly-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
@@ -584,12 +586,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2083-three-divisors) |
 | [3221-find-the-peaks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2491-smallest-even-multiple) |
