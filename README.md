@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2777-find-the-distinct-difference-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2777-find-the-distinct-difference-array) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2825-minimize-string-length) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2756-buy-two-chocolates](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2756-buy-two-chocolates) |
 | [2777-find-the-distinct-difference-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2777-find-the-distinct-difference-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2836-neither-minimum-nor-maximum) |
