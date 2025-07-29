@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2777-find-the-distinct-difference-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2777-find-the-distinct-difference-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2756-buy-two-chocolates](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2756-buy-two-chocolates) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2507-number-of-common-factors) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3221-find-the-peaks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
