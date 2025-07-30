@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0383-ransom-note) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0414-third-maximum-number) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0414-third-maximum-number) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -499,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -701,4 +707,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
