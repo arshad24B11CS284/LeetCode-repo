@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2650-split-with-minimum-sum) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
