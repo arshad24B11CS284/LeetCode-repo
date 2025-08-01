@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2469-longest-subsequence-with-limited-sum) |
