@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3817-maximum-containers-on-a-ship](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3859-maximum-product-of-two-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3859-maximum-product-of-two-digits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
+| [3859-maximum-product-of-two-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3859-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
