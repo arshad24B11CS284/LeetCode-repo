@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2215-finding-3-digit-even-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2226-rings-and-rods) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2215-finding-3-digit-even-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1829-maximum-units-on-a-truck) |
 | [1970-sorting-the-sentence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1970-sorting-the-sentence) |
+| [2215-finding-3-digit-even-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2083-three-divisors) |
+| [2215-finding-3-digit-even-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2507-number-of-common-factors) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3221-find-the-peaks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3221-find-the-peaks) |
