@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0202-happy-number) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0257-binary-tree-paths) |
