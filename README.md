@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0229-majority-element-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0268-missing-number) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0383-ransom-note) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -752,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0817-design-hashmap) |
 ## Counting Sort
@@ -779,4 +784,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
