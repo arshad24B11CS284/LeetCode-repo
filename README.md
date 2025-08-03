@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1297-maximum-number-of-balloons) |
