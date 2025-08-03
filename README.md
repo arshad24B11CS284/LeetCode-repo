@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0053-maximum-subarray) |
+| [0413-arithmetic-slices](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0413-arithmetic-slices) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
