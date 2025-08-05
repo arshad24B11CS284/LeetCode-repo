@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2383-add-two-integers) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1848-sum-of-unique-elements) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2507-number-of-common-factors) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3914-check-if-any-element-has-prime-frequency) |
