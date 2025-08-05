@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0643-maximum-average-subarray-i) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1603-running-sum-of-1d-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
