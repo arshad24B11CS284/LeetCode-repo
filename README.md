@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1256-rank-transform-of-an-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0958-sort-array-by-parity-ii) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
