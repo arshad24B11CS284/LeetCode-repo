@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2227-sum-of-subarray-ranges) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2331-intersection-of-multiple-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2331-intersection-of-multiple-arrays) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2331-intersection-of-multiple-arrays) |
