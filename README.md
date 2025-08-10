@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2159-two-out-of-three) |
 | [2181-smallest-index-with-equal-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0561-array-partition) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1829-maximum-units-on-a-truck](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1829-maximum-units-on-a-truck) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
