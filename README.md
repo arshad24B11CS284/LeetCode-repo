@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2561-number-of-distinct-averages](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2594-count-pairs-of-similar-strings](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2594-count-pairs-of-similar-strings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2639-separate-the-digits-in-an-array) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1610-xor-operation-in-an-array) |
 | [2159-two-out-of-three](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2308-divide-array-into-equal-pairs) |
+| [2594-count-pairs-of-similar-strings](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2594-count-pairs-of-similar-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2594-count-pairs-of-similar-strings](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2594-count-pairs-of-similar-strings) |
 | [3324-split-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2594-count-pairs-of-similar-strings](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2594-count-pairs-of-similar-strings) |
 | [2825-minimize-string-length](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2886-faulty-keyboard) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
