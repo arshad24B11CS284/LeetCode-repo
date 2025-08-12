@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2714-left-and-right-sum-differences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2756-buy-two-chocolates) |
 | [2777-find-the-distinct-difference-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2777-find-the-distinct-difference-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2836-neither-minimum-nor-maximum) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2714-left-and-right-sum-differences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2714-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
