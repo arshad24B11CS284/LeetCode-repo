@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2756-buy-two-chocolates) |
 | [2777-find-the-distinct-difference-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2777-find-the-distinct-difference-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2836-neither-minimum-nor-maximum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2902-max-pair-sum-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2902-max-pair-sum-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2507-number-of-common-factors) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3221-find-the-peaks) |
 | [3799-unique-3-digit-even-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3799-unique-3-digit-even-numbers) |
 ## Number Theory
