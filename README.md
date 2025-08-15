@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3034-points-that-intersect-with-cars](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3034-points-that-intersect-with-cars) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3221-find-the-peaks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3226-minimum-number-game) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2594-count-pairs-of-similar-strings) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
