@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2825-minimize-string-length) |
 | [2902-max-pair-sum-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2902-max-pair-sum-in-an-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2902-max-pair-sum-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3034-points-that-intersect-with-cars](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3221-find-the-peaks](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3226-minimum-number-game) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2714-left-and-right-sum-differences) |
+| [3034-points-that-intersect-with-cars](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3034-points-that-intersect-with-cars) |
 ## Matrix
 |  |
 | ------- |
