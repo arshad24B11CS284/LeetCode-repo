@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1651-shuffle-string) |
