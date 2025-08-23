@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0202-happy-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0413-arithmetic-slices) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1013-fibonacci-number) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
