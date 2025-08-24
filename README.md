@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0148-sort-list) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0187-repeated-dna-sequences) |
