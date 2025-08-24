@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0222-count-complete-tree-nodes) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
