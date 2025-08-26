@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3799-unique-3-digit-even-numbers) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3859-maximum-product-of-two-digits) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2650-split-with-minimum-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2756-buy-two-chocolates) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Tree
 |  |
 | ------- |
