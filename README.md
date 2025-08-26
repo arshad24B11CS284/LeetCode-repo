@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3371-harshad-number) |
+| [3567-convert-date-to-binary](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3817-maximum-containers-on-a-ship) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3567-convert-date-to-binary](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
