@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
