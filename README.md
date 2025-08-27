@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2679-count-distinct-numbers-on-board) |
 | [2886-faulty-keyboard](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3226-minimum-number-game) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3533-snake-in-matrix) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3468-find-the-encrypted-string) |
 | [3533-snake-in-matrix](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3533-snake-in-matrix) |
