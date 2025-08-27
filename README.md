@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3447-clear-digits) |
+| [3468-find-the-encrypted-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3468-find-the-encrypted-string) |
 | [3533-snake-in-matrix](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3533-snake-in-matrix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3567-convert-date-to-binary) |
