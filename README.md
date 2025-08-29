@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2594-count-pairs-of-similar-strings](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2594-count-pairs-of-similar-strings) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2881-split-strings-by-separator) |
