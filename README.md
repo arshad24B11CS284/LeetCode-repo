@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2594-count-pairs-of-similar-strings](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2594-count-pairs-of-similar-strings) |
+| [3019-furthest-point-from-origin](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3019-furthest-point-from-origin) |
 | [3324-split-the-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3778-transform-array-by-parity) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3019-furthest-point-from-origin](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3019-furthest-point-from-origin) |
 | [3312-number-of-changing-keys](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
