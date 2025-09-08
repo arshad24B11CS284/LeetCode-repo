@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1791-richest-customer-wealth) |
 | [1829-maximum-units-on-a-truck](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1829-maximum-units-on-a-truck) |
 | [1848-sum-of-unique-elements](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1848-sum-of-unique-elements) |
+| [1944-truncate-sentence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1944-truncate-sentence) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1651-shuffle-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1904-second-largest-digit-in-a-string) |
+| [1944-truncate-sentence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
