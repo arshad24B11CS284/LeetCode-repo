@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0958-sort-array-by-parity-ii) |
+| [0981-delete-columns-to-make-sorted](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1034-subarrays-with-k-different-integers) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0782-jewels-and-stones) |
+| [0981-delete-columns-to-make-sorted](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0981-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1353-find-resultant-array-after-removing-anagrams) |
