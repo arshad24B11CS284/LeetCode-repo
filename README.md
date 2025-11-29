@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2486-most-frequent-even-element) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2226-rings-and-rods) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
