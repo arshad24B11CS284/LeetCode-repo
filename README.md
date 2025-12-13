@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0213-house-robber-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0088-merge-sorted-array) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0561-array-partition) |
