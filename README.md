@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0413-arithmetic-slices) |
+| [0646-maximum-length-of-pair-chain](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0735-asteroid-collision) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0958-sort-array-by-parity-ii) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0624-maximum-distance-in-arrays) |
+| [0646-maximum-length-of-pair-chain](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1829-maximum-units-on-a-truck](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1829-maximum-units-on-a-truck) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2199-two-furthest-houses-with-different-colors) |
