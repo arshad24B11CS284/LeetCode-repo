@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1542-consecutive-characters) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/0646-maximum-length-of-pair-chain) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1829-maximum-units-on-a-truck](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/1829-maximum-units-on-a-truck) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arshad24B11CS284/LeetCode-repo/tree/master/2199-two-furthest-houses-with-different-colors) |
